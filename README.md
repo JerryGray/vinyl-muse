@@ -30,58 +30,56 @@ Vinyl Muse addresses this by combining:
 
 ## Application Preview
 
-### Desktop vs Mobile
+### Desktop Experience
 
-<p>
-<img src="screenshots/default_desktop.png" width="60%">
+#### Default View:
+<img src="screenshots/default_desktop.png" width="85%">
+
+#### Filtered (Genres, Decade):
+<img src="screenshots/desktop_filtered.png" width="85%">
+
+---
+
+### Mobile Experience
+#### Filters Panel open
 <img src="screenshots/default_mobile_open_filters.png" width="30%">
-</p>
 
----
-
-### Filtering & Search
-
-<p>
-<img src="screenshots/desktop_filtered.png" width="60%">
+#### Filters Panel closed
 <img src="screenshots/default_mobile_closed_filters.png" width="30%">
-</p>
 
 ---
 
-### Randomizer & Playlist
+### Random Selection or Playlist
+#### Random selection
+<img src="screenshots/random_selection.png" width="35%">
 
-<p>
-<img src="screenshots/random_selection.png" width="45%">
-<img src="screenshots/random_playlist.png" width="45%">
-</p>
-
-<p>
-<img src="screenshots/mobile_random_playlist.png" width="30%">
-</p>
+##### Random Playlist 
+<img src="screenshots/random_playlist.png" width="35%">
 
 ---
 
 ### Record Management
+#### Add Record screen
+<img src="screenshots/add_record.png" width="35%">
 
-<p>
-<img src="screenshots/add_record.png" width="45%">
-<img src="screenshots/edit_record.png" width="45%">
-</p>
+#### Edit Record screen
+<img src="screenshots/edit_record.png" width="35%">
 
 ---
 
 ### Metrics
+#### Default view
+<img src="screenshots/desktop_metrics_default.png" width="85%">
 
-<p>
-<img src="screenshots/metrics_default.png" width="45%">
-<img src="screenshots/metrics_rock_selected.png" width="45%">
-</p>
+#### "Rock" genre category clicked
+<img src="screenshots/desktop_metrics_rock_genre_selected.png" width="85%">
+
 
 ---
 
 ## Live Demo
 
-👉 [Try Vinyl Muse](https://your-pythonanywhere-url)
+👉 [Try Vinyl Muse](https://jmgray.pythonanywhere.com/register)
 
 ---
 
