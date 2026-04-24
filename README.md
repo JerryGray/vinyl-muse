@@ -33,46 +33,40 @@ Vinyl Muse addresses this by combining:
 ### Desktop Experience
 
 #### Default View:
-<img src="screenshots/default_desktop.png" width="85%">
+<img src="screenshots/default_desktop.png" width="90%">
 
 #### Filtered (Genres, Decade):
-<img src="screenshots/desktop_filtered.png" width="85%">
+<img src="screenshots/desktop_filtered.png" width="90%">
 
 ---
 
 ### Mobile Experience
-#### Filters Panel open
-<img src="screenshots/default_mobile_open_filters.png" width="30%">
+#### Filters panel open | filters panel closed | random playlist generated
+<img src="screenshots/mobile_experience.png" width="95%">
 
-#### Filters Panel closed
-<img src="screenshots/default_mobile_closed_filters.png" width="30%">
 
 ---
 
 ### Random Selection or Playlist
-#### Random selection
-<img src="screenshots/random_selection.png" width="35%">
+#### Random selection | random playlist
+<img src="screenshots/random_selection_playlist.png" width="95%">
 
-##### Random Playlist 
-<img src="screenshots/random_playlist.png" width="35%">
 
 ---
 
 ### Record Management
-#### Add Record screen
-<img src="screenshots/add_record.png" width="35%">
+#### Add Record screen | Edit Record screen
+<img src="screenshots/add_edit_record.png" width="95%">
 
-#### Edit Record screen
-<img src="screenshots/edit_record.png" width="35%">
 
 ---
 
 ### Metrics
 #### Default view
-<img src="screenshots/desktop_metrics_default.png" width="85%">
+<img src="screenshots/desktop_metrics_default.png" width="90%">
 
-#### "Rock" genre category clicked
-<img src="screenshots/desktop_metrics_rock_genre_selected.png" width="85%">
+#### "Rock" genre category clicked (Most Played becomes Most Played - Rock)
+<img src="screenshots/desktop_metrics_rock_genre_selected.png" width="90%">
 
 
 ---
