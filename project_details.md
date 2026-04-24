@@ -1,11 +1,11 @@
 # Vinyl Muse – Project Details
 
 # Summary
-Vinyl Muse is a web-based application designed to help users manage, explore, and interact with their personal record collections. It is built for collectors who want more than a static list—offering dynamic filtering, randomized selection, playlist generation, and lightweight analytics.
+Vinyl Muse is a web-based application designed to help users manage, explore, and interact with their personal record collections. It is built for collectors who want more than a static list, offering dynamic filtering, randomized selection, playlist generation, and lightweight analytics.
 The application solves a common problem for collectors: decision fatigue. When faced with a large collection, it becomes difficult to decide what to listen to. Vinyl Muse addresses this by combining structured organization (search, filters) with discovery tools (random selection, playlists), while also tracking listening behavior over time.
 
 # Product / User Problem
-Browsing a record collection—especially a large one—is often inefficient and uninspiring when done through static lists or spreadsheets. Common issues include:
+Browsing a record collection, especially a large one, is often inefficient and uninspiring when done through static lists or spreadsheets. Common issues include:
 - Difficulty narrowing down options across multiple attributes (genre, era, artist) 
 - Lack of meaningful discovery within one’s own collection 
 - No lightweight way to track listening habits 
