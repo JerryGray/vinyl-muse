@@ -33,40 +33,40 @@ Vinyl Muse addresses this by combining:
 ### Desktop Experience
 
 #### Default View:
-<img src="screenshots/default_desktop.png" width="90%">
+<img src="screenshots/default_desktop.png">
 
 #### Filtered (Genres, Decade):
-<img src="screenshots/desktop_filtered.png" width="90%">
+<img src="screenshots/desktop_filtered.png">
 
 ---
 
 ### Mobile Experience
 #### Filters panel open | filters panel closed | random playlist generated
-<img src="screenshots/mobile_experience.png" width="95%">
+<img src="screenshots/mobile_experience.png">
 
 
 ---
 
 ### Random Selection or Playlist
 #### Random selection | random playlist
-<img src="screenshots/random_selection_playlist.png" width="95%">
+<img src="screenshots/random_selection_playlist.png">
 
 
 ---
 
 ### Record Management
 #### Add Record screen | Edit Record screen
-<img src="screenshots/add_edit_record.png" width="95%">
+<img src="screenshots/add_edit_record.png">
 
 
 ---
 
 ### Metrics
 #### Default view
-<img src="screenshots/desktop_metrics_default.png" width="90%">
+<img src="screenshots/desktop_metrics_default.png">
 
 #### "Rock" genre category clicked (Most Played becomes Most Played - Rock)
-<img src="screenshots/desktop_metrics_rock_genre_selected.png" width="90%">
+<img src="screenshots/desktop_metrics_rock_genre_selected.png">
 
 
 ---
