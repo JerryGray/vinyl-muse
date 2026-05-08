@@ -17,14 +17,35 @@ Vinyl Muse addresses this by combining:
 
 ---
 
-## Key Features
+## Application Design / Functionality
 
-- Multi-dimensional filtering (genre, decade)
-- Real-time search and sorting
-- Random record selection and playlist generation
-- Play tracking with event-based logic
-- Responsive design (desktop + mobile)
-- Built-in metrics and visualizations
+Record Management
+- Users can add, edit, and delete records with structured fields including artist, album, genre, release year, tags, and cover art
+- Duplicate detection prevents redundant entries
+- Cover art is automatically fetched when possible, but can also be uploaded
+- Play counts are tracked and editable
+  
+Search & Sorting
+- Real-time search filters records by artist, album, genre, and release year
+- Column-based sorting supports artist, album, genre, release year, and play count
+
+Dynamic filtering
+- Multi-select filters for genre and decade
+- Interdependent filtering logic updates displayed record list and directly influences random selection pool
+  
+Select a single random record or generate a playlist (2-5 records)
+- Recently selected or confirmed records are temporarily excluded to improve variety
+- Confirmation system increments play counts and tracks listening behavior
+
+Metrics page
+- Collection distribution by genre and decade
+- Play counts by genre
+- Most played records
+- Interactive charts allow filtering of other visuals by clicking categories
+
+Image handling
+- Automatic cover art retrieval from multiple sources
+- Fallback logic progressively simplifies search queries
 
 ---
 
@@ -71,6 +92,23 @@ Vinyl Muse addresses this by combining:
 
 ---
 
+## UX / Design Considerations
+
+Usability
+- Designed around minimizing friction in common actions (search, filter, select)
+- Immediate visual feedback for user actions
+- Persistent UI state (filters, scroll position) to prevent disruption
+
+Filtering Behavior
+- Empty selections are treated as "no filter" rather than excluding all results
+- Count display updates to reflect filtered results
+
+Layout / Responsiveness
+- Desktop: sidebar filters + table layout
+- Mobile: collapsible filters section + stacked card-style records
+
+---
+
 ## Live Demo
 
 👉 [Try Vinyl Muse](https://jmgray.pythonanywhere.com/register)
@@ -87,6 +125,9 @@ Vinyl Muse addresses this by combining:
 
 ---
 
-## Full Project Breakdown
+## Next Steps
+- Tag-based filtering/categorization
+- Expanded metrics (listening trends over time, top artists, listening patterns)
+- Saved filter sets
+- Enhanced cover image handling (manual override on initial fetch attempt, correction UI)
 
-👉 [View Full Project Details](project_details.md)
